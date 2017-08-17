@@ -7,20 +7,20 @@
     <groupId>Hotmail_test</groupId>
     <artifactId>Hotmail_test</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <!--
+
     <build>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <configuration>
-                    <source>1.7</source>
-                    <target>1.7</target>
+                    <source>1.8</source>
+                    <target>1.8</target>
                 </configuration>
             </plugin>
         </plugins>
     </build>
-    -->
+   
 
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-compiler-plugin -->
