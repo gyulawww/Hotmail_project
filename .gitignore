@@ -7,7 +7,7 @@
 /test-output/
 /logs/
 /felix-cache/
-/generated/
+
 
 
 .gradle/
@@ -18,5 +18,4 @@ out/
 target/
 nbactions.xml
 nb-configuration.xml
-.classpath
-.project
+
