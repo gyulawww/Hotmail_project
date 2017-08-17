@@ -64,8 +64,7 @@ public class HotmailTest_ubuntu_windows {
 	     //wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//*[@id=\"_ariaId_26\"]")));
 	     FluentWait wait = new FluentWait<>(driver) .withTimeout(30,TimeUnit.SECONDS ) .pollingEvery(5, TimeUnit.SECONDS) .ignoring(NoSuchElementException.class);
 	     driver.findElement(By.xpath("//*[@id=\"_ariaId_26\"]")).click();
-	     Thread.sleep(3000);	    
-	     
+	     Thread.sleep(3000);
 	  }
 
 	  @AfterTest	  
