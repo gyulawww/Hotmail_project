@@ -1,18 +1,24 @@
 
 /RemoteSystemsTempFiles
-
-
-
+*.iml
+/.idea
+/.settings
+/.project
+/.metadat
 
 /test-output/
 /logs/
 /felix-cache/
 
-
-
+build/
+.classpath
+.project
+.idea/
+.settings/
+/generated
+nbactions.xml
+nb-configuration.xml
 .gradle/
-
-
 
 out/
 target/
