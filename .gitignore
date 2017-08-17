@@ -1,6 +1,6 @@
 /.metadata
 /RemoteSystemsTempFiles
-/.settings
+
 
 /.project
 
@@ -12,8 +12,8 @@
 build/
 .gradle/
 
-.settings/
-*.iml
+
+
 out/
 target/
 nbactions.xml
