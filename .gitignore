@@ -1,15 +1,15 @@
-/.metadata
+
 /RemoteSystemsTempFiles
 
 
-/.project
+
 
 /test-output/
 /logs/
 /felix-cache/
 /generated/
 
-build/
+
 .gradle/
 
 
