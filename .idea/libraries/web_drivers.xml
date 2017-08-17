@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="web-drivers">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/web-drivers" />
+    </SOURCES>
+  </library>
+</component>
