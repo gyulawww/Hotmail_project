@@ -36,7 +36,8 @@ public class HotmailTest_ubuntu_windows {
 		    driver = new ChromeDriver(); 
 		    System.out.println(driver);
 		} else if (os.contains("Linux")){
-	        System.setProperty("webdriver.chrome.driver", "/usr/local/bin/chromedriver");
+	        //System.setProperty("webdriver.chrome.driver", "/usr/local/bin/chromedriver");
+			System.setProperty("webdriver.chrome.driver", "/var/lib/jenkins/tools/bin/chromedriver");
 	        driver = new ChromeDriver(); 	       
 		}
 		baseUrl = "https://outlook.live.com/owa/";
