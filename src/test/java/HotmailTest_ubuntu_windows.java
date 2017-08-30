@@ -37,7 +37,7 @@ public class HotmailTest_ubuntu_windows {
 		    System.out.println(driver);
 		} else if (os.contains("Linux")){
 	        //System.setProperty("webdriver.chrome.driver", "/usr/local/bin/chromedriver");
-			System.setProperty("webdriver.chrome.driver", "/var/lib/jenkins/tools/chromedriver/chromedriver");
+			System.setProperty("webdriver.chrome.driver", "/home/ubuntu/webdrivers/chromedriver");
 	        driver = new ChromeDriver();
 
 		}
